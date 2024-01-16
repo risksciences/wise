@@ -12,4 +12,4 @@ Follow these steps:
 3. Install Homebrew: https://github.com/Homebrew/brew/releases/download/4.2.3/Homebrew-4.2.3.pkg
 4. Copy-paste this command into your terminal:
 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/risksciences/wise/main/install.sh)"`
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/risksciences/wise/macos/install.sh)"`
